@@ -1,3 +1,3 @@
-# challenge-git5
+REMOTE
 
 This challenge is used to learn about merge conflicts
